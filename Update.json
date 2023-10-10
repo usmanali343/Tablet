@@ -1,1 +1,20 @@
-{"videoUrl":"https://www.youtube.com/watch?v=bzSTpdcs-EI","message":"Exit ScaleFusion and uninstall the app, then download the app from PlayStore. In case of any query, contact with support.","data":[{"tenants":[2,3],"date":"2023-10-07"},{"tenants":[1,4],"date":"2023-10-10"}]}
+{
+  "videoUrl":"https://www.youtube.com/watch?v=bzSTpdcs-EI",
+  "message":"Exit ScaleFusion and uninstall the app, then download the app from PlayStore. In case of any query, contact with support.",
+  "data":[
+    {
+      "tenants":[
+        2,
+        3
+      ],
+      "date":"2023-10-07"
+    },
+    {
+      "tenants":[
+        1,
+        4
+      ],
+      "date":"2023-10-10"
+    }
+  ]
+}
