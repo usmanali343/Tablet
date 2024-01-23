@@ -3,8 +3,8 @@
   "message":" This application will be blocked. Exit ScaleFusion with code \"654321\" and uninstall the app, then install the Cabsoluit Driver Tablet app from Google Play Store. In case of any query, contact support.",
   "data":[
     {
-      "tenants":[37, 56, 1, 36, 47, 54, 63, 45, 46, 57, 60, 59, 53, 39, 49, 55, 51, 48, 50, 61, 62, 40, 33, 52, 44, 35],
-      "date":"2023-10-24"
+      "tenants":[43],
+      "date":"2024-01-22"
     }
   ]
 }
